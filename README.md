@@ -1,6 +1,8 @@
 # learning-github
 Understanding push, pull, merge, fork, clone etc using vs code and github
 
+This is a github repo to understand and recall how to use VS code to work with github simultaneously and how branches, push, pull requests, edits, ets work to make a good github working environment. For example this paragraph was written in VS code rather directly being edited on github and then pushed on a new branch, further merging the new branch with the main branch via a pull request. The following parts of the readme ecplaine exactly how this was done!
+
 This is the first line that has been updated on github using VS code
 Steps : 1. Copy the https code from github repo
         2. ctrl+shift+p on VS code to open command pallette and type clone to clone the repo
