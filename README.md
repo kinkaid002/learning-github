@@ -24,3 +24,5 @@ This is the third part where we will add a new python file to the repo via vs co
 Steps: 1. Go to the file explorer and create a new .py file and write some code in it and save
        2. Then add the file to stage, enter commit message, commit and then sync
        3. Now again create a pull request to perform changes to main
+       
+This change is being made on the new branch in which we have been commiting till now.
