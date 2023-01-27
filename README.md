@@ -23,4 +23,7 @@ Steps: 1. Go to the file explorer and create a new .py file and write some code 
        2. Then add the file to stage, enter commit message, commit and then sync
        3. Now again create a pull request to perform changes to main
        
-This change is being made on the new branch in which we have been commiting till now.
+This change is being made on the new branch in which we have been commiting till now. Once saved, create a new pull request to update changes in main branch.
+
+This final block of change is being done directly in the main branch in github, so there wont be any need to create a new pull request to update main branch!
+For recalling vscode working with github, visit the YT video : https://www.youtube.com/watch?v=i_23KUAEtUM&ab_channel=VisualStudioCode
