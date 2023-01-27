@@ -17,3 +17,8 @@ Steps: 1. Create a new branch by clicking on branch name at left bottom and then
        3. Repeat steps 5 to 6.
        4. Now one can see that a new branch has been created
        5. Create a pull request which can be then seen by the admin and reviwed so that they can merge the new branch with the main branch!
+
+This is the third part where we will add a new python file to the repo via vs code and commit changes
+Steps: 1. Go to the file explorer and create a new .py file and write some code in it and save
+       2. Then add the file to stage, enter commit message, commit and then sync
+       3. Now again create a pull request to perform changes to main
